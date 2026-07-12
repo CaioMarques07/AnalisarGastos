@@ -1,9 +1,3 @@
-/* ==========================================================================
-   charts.js
-   Gráficos desenhados à mão (sem dependências externas):
-   - Donut em SVG (arco por categoria)
-   - Barras verticais em HTML/CSS
-   ========================================================================== */
 
 const Charts = {
 

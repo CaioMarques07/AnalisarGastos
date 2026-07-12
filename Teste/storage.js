@@ -1,8 +1,3 @@
-/* ==========================================================================
-   storage.js
-   Camada de dados: categorias padrão, persistência em localStorage,
-   seed inicial e utilidades de formatação usadas pelo app inteiro.
-   ========================================================================== */
 
 const STORAGE_KEYS = {
   gastos: 'ag_gastos_v1',

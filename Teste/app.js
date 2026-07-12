@@ -1,8 +1,3 @@
-/* ==========================================================================
-   app.js
-   Orquestra views, formulário de gastos, filtros, e renderização
-   de todos os painéis a partir dos dados em Storage.
-   ========================================================================== */
 
 (() => {
   const state = {
